@@ -1,10 +1,10 @@
 # syntax=docker/dockerfile:1
 
-ARG PACK_NAME="FTB StoneBlock 4"
-ARG PACK_VERSION="1.7.3"
+ARG PACK_NAME="FTB Skies 2"
+ARG PACK_VERSION="1.14.3"
 
-ARG FTB_ID="130"
-ARG FTB_VER="100177"
+ARG FTB_ID="129"
+ARG FTB_VER="100250"
 
 FROM eclipse-temurin:21-jdk
 
